@@ -1,7 +1,7 @@
 <h1 align="center">Giovanna Farias Miná</h1>
 
 <p align="center">
-  <i>Analista de Dados | Estudante de Ciências da Computação - UFCG | Entusiasta em Ciência de Dados e Inteligência Artificial</i>
+  <i>Estudante de Ciências da Computação - UFCG | Entusiasta em Ciência de Dados e Inteligência Artificial</i>
 </p>
 
 
